@@ -19,7 +19,7 @@ Credits and Links
 
 Simply open the PDF to read the EDA report
 
-Clone the repository from GitHub using the following command: !git clone https://github.com/MikeJuneBug/WineEDA
+Clone the repository from GitHub using the following command: !git clone https://github.com/MikeJuneBug/CarEDA
 
 This will create a new directory on your local machine with the files from the repository. Go to this directory and open PDF.
 
